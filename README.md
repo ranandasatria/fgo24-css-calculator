@@ -3,7 +3,7 @@
 This project is a CSS-based implementation of a calculator layout using CSS Grid. The design is inspired by Kateryna Loi’s Daily UI #4 - Calculator on Dribbble. The main goal is to practice UI slicing and layout structuring using modern CSS techniques, with a focus on clean, responsive grid systems.
 
 ## Preview
-![Preview](project/slicingcalculator.png)
+![Preview](project/CalculatorDesign.png)
 
 
 ## Getting Started
