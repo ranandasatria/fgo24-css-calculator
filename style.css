@@ -5,7 +5,8 @@
 }
 
 body {
-    background: #e6f0fa;
+    /* background-color: #C8F2F8; */
+    background-image: url("project/background.png");
     display: grid;
     place-items: center;
     height: 100vh;
